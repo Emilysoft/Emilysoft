@@ -21,8 +21,6 @@ Frameworks como Laravel (PHP), Spring (Java), Django (Python)
 IDEs como Visual Studio Code, IntelliJ IDEA y Eclipse
 🌱 Actualmente aprendiendo:
 
-Desarrollo de aplicaciones móviles
-Microservicios y contenedores con Docker
 
 <!---
 Emilysoft/Emilysoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
