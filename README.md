@@ -1,4 +1,5 @@
 🌸 ¡Hola! Soy Emily, una programadora de 20 tantos años en construcción! 🛠️✨
+
 🐾 Escribo código que funciona… a veces (uwu).
 🔄 Inicio más proyectos de los que termino, pero cada bug es una lección nueva. (｡•́︿•̀｡)
 📚 Aprendiendo un poco de todo: lenguajes, frameworks y cómo no romper el código (otra vez). (✿◡‿◡)
