@@ -1,25 +1,11 @@
-👩‍💻 Emily | Desarrolladora de Software
-¡Hola! Soy Emily, una apasionada desarrolladora de software con experiencia en diversos lenguajes de programación. Me encanta resolver problemas complejos y aprender constantemente sobre nuevas tecnologías. Me especializo en desarrollar soluciones eficientes y escalables, siempre buscando mejorar mis habilidades y conocimientos.
+🌸 ¡Hola! Soy Emily, una programadora de 20 tantos años en construcción! 🛠️✨
+🐾 Escribo código que funciona… a veces (uwu).
+🔄 Inicio más proyectos de los que termino, pero cada bug es una lección nueva. (｡•́︿•̀｡)
+📚 Aprendiendo un poco de todo: lenguajes, frameworks y cómo no romper el código (otra vez). (✿◡‿◡)
+🚀 Sueño con dominar el arte de dar soluciones elegantes a problemas caóticos. (ง •̀ω•́)ง✧
+💖 ¡En constante actualización… como mi lista de proyectos pendientes!
 
-🛠 Lenguajes que manejo:
-
-PHP
-C++
-Java
-Python
-C#
-🚀 Áreas de interés:
-
-Desarrollo web y backend
-Programación orientada a objetos
-Inteligencia artificial y aprendizaje automático
-Optimización de código y rendimiento
-🔧 Herramientas que utilizo:
-
-Git y GitHub para control de versiones
-Frameworks como Laravel (PHP), Spring (Java), Django (Python)
-IDEs como Visual Studio Code, IntelliJ IDEA y Eclipse
-🌱 Actualmente aprendiendo:
+⚠️ Warning: Puede contener trazas de console.log() y commits con mensajes tipo “arreglado por fin… creo (￣ω￣;)”.
 
 
 <!---
